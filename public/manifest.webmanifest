@@ -1,0 +1,18 @@
+{
+  "name": "Ayushmaan OS - Luxury Hotel CRM & GST Invoicing",
+  "short_name": "Ayushmaan OS",
+  "description": "Offline-first Hotel CRM, Front Desk, Room Management, and GST 2.0 Invoicing Engine",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
